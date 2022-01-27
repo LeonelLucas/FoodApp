@@ -6,8 +6,8 @@
 
 ![1](https://github.com/LeonelLucas/FoodApp/blob/master/1.PNG)
 
-![2](https://github.com/LeonelLucas/FoodApp/blob/master/2.PNG)
+![4](https://github.com/LeonelLucas/FoodApp/blob/master/4.PNG)
 
-![3](https://github.com/LeonelLucas/FoodApp/blob/master/3.PNG)
+![5](https://github.com/LeonelLucas/FoodApp/blob/master/5.PNG)
 
 ![mobizen_20220127_125148](https://github.com/LeonelLucas/FoodApp/blob/master/mobizen_20220127_125148.gif)
