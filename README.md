@@ -10,7 +10,7 @@
 
 ![8](https://github.com/LeonelLucas/FoodApp/blob/master/8.PNG)
 
-![mobizen_20220127_125148](https://github.com/LeonelLucas/FoodApp/blob/master/mobizen_20220127_125148.gif)
+![mobizen_20220127_125148](https://github.com/LeonelLucas/FoodApp/blob/master/mobizen_20220127_125148.gif) 
 
 ![mobizen_20220127_125336](https://github.com/LeonelLucas/FoodApp/blob/master/mobizen_20220127_125336.gif)
 
