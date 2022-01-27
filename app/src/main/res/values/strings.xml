@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppFeedBack</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="enter">ENTRAR</string>
+    <string name="makeaccount">CRIAR LOGIN</string>
+    <string name="createaccount">CADASTRE-SE</string>
+    <string name="create">CRIAR CONTA</string>
+    <string name="Name">Nome</string>
+    <string name="Price">Preço</string>
+    <string name="Enter">ENTER</string>
+    <string name="Redefinir">REDEFINIR SENHA</string>
+</resources>

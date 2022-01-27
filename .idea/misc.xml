@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/background.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/box.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/emailass.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/inputtext.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/passwordass.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/wallpaper.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/wave.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/drawable/wavefoot.xml" value="0.2203125" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_add_cereals.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_add_componente.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_add_meat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_add_salad.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_add_vegetable.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_adicional.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_cardapio.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_cardapios.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_cereals.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_clt_user.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_components.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_conf_client.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_conf_cliente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_conf_emp.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_conf_user.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_create_account.xml" value="0.22" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_feed.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_feed_empresa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_feed_user.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_forgot_password.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_log.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_menu_cliente.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_new_account.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_pedidos_clt.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_selecao_modo.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_user.xml" value="0.2" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/activity_ver_adicional.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/adapter_empresa.xml" value="0.33" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/adapter_pedidos.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/adapter_produto.xml" value="0.22" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/adapteradicional.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/bottom_navigation.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/divisor.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/divisorc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/inputtext.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/layoutapp.xml" value="0.14" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/toolbar.xml" value="0.22" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/toolbarcliente.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/wallpaper.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/layout/wrongemailpassword.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/menu/menu_cardapio.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/menu/menu_empres.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/menu/menu_empresa.xml" value="0.2" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/menu/menu_user.xml" value="0.25" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppFeedBack/app/src/main/res/menu/pesquisaempresa.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

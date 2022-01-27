@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="140dp"
+    android:background="@drawable/box"
+    android:layout_marginEnd="20dp"
+    android:layout_marginStart="20dp"
+    android:layout_marginBottom="20dp"
+    android:orientation="vertical"
+    android:elevation="15dp">
+
+    <TextView
+        android:id="@+id/textPedidoNome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Kênia Lúcia"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/textPedidoEndereco"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:text="Endereço: Rua Jaime Gosmes, 1300, Bairro: Planalto"
+        android:textSize="14sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textPedidoEntrega"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
+        android:text="Entregar"
+        android:textSize="14sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textPedidoObs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:textColor="@color/white"
+        android:text="Obs: teste"
+        android:textSize="14sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:id="@+id/textPedidoItens"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1) Filé"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        />
+
+</LinearLayout>
